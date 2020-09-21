@@ -10,7 +10,7 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 
 @RunWith(MockitoJUnitRunner.class)
-public class VerifyMethod {
+public class VerifyMethod_two {
 /**
  * verify()用于测试add和clear方法是否使用
  */

@@ -9,7 +9,7 @@ import java.util.LinkedList;
 import static org.mockito.Mockito.*;
 
 @RunWith(MockitoJUnitRunner.class)
-public class WhenMethod {
+public class WhenMethod_one {
     @Test
     public void should_test_find_return(){
         LinkedList mockedList = mock(LinkedList.class);
